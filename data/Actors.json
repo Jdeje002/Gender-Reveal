@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"John","characterIndex":0,"characterName":"John","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"John","traits":[{"code":22,"dataId":1,"value":0.06},{"code":41,"dataId":2,"value":1}],"initialLevel":2,"maxLevel":99,"name":"John","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"anna","characterIndex":0,"characterName":"anna walk","classId":3,"equips":[3,0,2,3,0],"faceIndex":0,"faceName":"anna","traits":[{"code":41,"dataId":1,"value":1}],"initialLevel":2,"maxLevel":99,"name":"Anna","nickname":"","note":"","profile":""}
+]
